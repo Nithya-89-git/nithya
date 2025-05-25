@@ -24,7 +24,8 @@ public class PhoneInfo {
 	private void osName() {
 		System.out.println("Android");
 		// TODO Auto-generated method stub
-
+//code added to check branch creation and pull request
+		System.out.println("code added to check branch creation and pull request");
 	}
 	public static void main(String[] args) {
 		PhoneInfo d = new PhoneInfo();
